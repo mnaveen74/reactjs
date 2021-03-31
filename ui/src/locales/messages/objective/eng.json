@@ -1,7 +1,0 @@
-{   
-	"objective.objective": "Objective", 
-	"objective.targetPopulation": "Target Population",
-	"objective.treatmentArm": "Treatment Arm",
-	"objective.controlArm": "Control Arm",
-	"objective.addEndpoint": "+ Add Endpoint"	
-}

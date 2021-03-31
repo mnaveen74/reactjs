@@ -1,6 +1,0 @@
-{
-    "numberOfEvents": {
-        "ui:placeholder": "Number of Events",
-        "ui:autocomplete": "off"
-      }
-}
